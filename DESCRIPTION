@@ -24,5 +24,15 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
+    caret,
+    data.table,
+    DBI,
+    dplyr,
+    magrittr,
+    purr,
+    purrr,
+    reshape2,
     RSQLite,
-    sendigR
+    sendigR,
+    stringr,
+    tidyr
